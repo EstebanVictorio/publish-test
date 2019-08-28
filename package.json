@@ -1,9 +1,0 @@
-{
-  "name": "publish-test",
-  "version": "1.0.2",
-  "description": "A publishing test",
-  "main": "arith.js",
-  "repository": "https://github.com/EstebanVictorio/publish-test",
-  "author": "Esteban Victorio <estebanvictorio92@gmail.com>",
-  "license": "MIT"
-}
